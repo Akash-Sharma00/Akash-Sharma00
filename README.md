@@ -4,9 +4,9 @@
 <h3 align="center">A passionate App and Web developer from India</h3>
 <!-- <img alt="Developer" width="400" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
-- 🌱 I’m currently learning **MEARN**
+- 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **Flutter, Dart, MEARN**
+- 💬 Ask me about **Flutter, Dart, MERN**
 
 - 📫 How to reach me **akashvsh13@gmail.com**
 
