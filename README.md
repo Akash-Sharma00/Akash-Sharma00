@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/akash081300" target="blank"><img src="https://img.shields.io/twitter/follow/akash081300?logo=twitter&style=for-the-badge" alt="akash081300" /></a> </p>
 
-- 🌱 I’m currently learning **MEARN**
+- 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **Flutter, Dart, MEARN**
+- 💬 Ask me about **Flutter, Dart, MERN**
 
 - 📫 How to reach me **akashvsh13@gmail.com**
 
