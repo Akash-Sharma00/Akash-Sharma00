@@ -32,10 +32,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-sharma00&label=Profile%20views&color=0e75b6&style=flat" alt="akash-sharma00" /> </p>
 
-
-
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
